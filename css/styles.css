@@ -2,18 +2,19 @@ body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
   padding: 2px;
-  border: 2px solid red;
+  background-color:green;
  
 }
 
 .hero-image {
-  background-image: url("../images/alien.png");
+  background-image: url("../images/df.jpg");
   background-color: #cccccc;
   height: 500px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
+
 }
 
 .hero-text {
@@ -27,14 +28,34 @@ body {
 .about {
   font-size: 14px;
   font-family: fantasy;
-  background-color: aquamarine;
+ 
+  background-color: yellow;
 }
 .hobbies {
   color: blueviolet;
 }
 h1 {
-  font-size:50px;
+  font-size: 50px;
 }
 .samples{
-  background-color: burlywood;
+  background-color: rgba(255, 0, 0, 0.692);
+}
+h2{
+  color: aqua;
+}
+img {
+  width: 200px;
+  float: right;
+}
+.column {
+  width: 421px;
+  float:left;
+  background-color: yellow;
+
+  position: relative;
+
+}
+
+.copy{
+  text-align: center;
 }
