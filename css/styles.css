@@ -32,7 +32,7 @@ body {
   background-color: yellow;
 }
 .hobbies {
-  color: blueviolet;
+  color: yellow;
 }
 h1 {
   font-size: 50px;
@@ -44,11 +44,12 @@ h2{
   color: aqua;
 }
 img {
-  width: 200px;
-  float: right;
+  float: left;
+  width: 300px;
+  height: 200px;
 }
 .column {
-  width: 421px;
+  width: 350px;
   float:left;
   background-color: yellow;
 
